@@ -1,0 +1,13 @@
+table{
+    margin: auto;
+    width: 30%;
+
+}
+input[type=text]{
+    padding: 10px;
+}
+input[type=button]{
+    background-color: antiquewhite;
+    cursor: pointer;
+    padding: 10px;
+}
